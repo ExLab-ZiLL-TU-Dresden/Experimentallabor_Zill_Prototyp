@@ -1,8 +1,19 @@
 #: locale=de
 
+## Aktion
+
+### PDF
+PopupPDFBehaviour_D309D354_DCED_C83E_41D3_D9AC6AF1DE05.url = files/Digitale%20Selbstlernkurse_de.pdf
+PopupPDFBehaviour_00C52BF0_107E_D7D2_4192_177779F13873.url = files/ForschendesLernen_de.pdf
+
+### URL
+PopupWebFrameBehaviour_0388382E_1575_E406_41AD_218E8EC370CC.url = //www.youtube.com/embed/-CD3uZ_eDIc?v=-CD3uZ_eDIc&list=PLHpcXwA9tUW3KouOW5pESGKY4P-EgKErm
+PopupWebFrameBehaviour_E3AC5304_F14C_D644_416F_DA5E516A2C83.url = //www.youtube.com/embed/gv-R2at8_jk
+
 ## Hotspot
 
 ### Text
+HotspotPanoramaOverlayTextImage_0495CE02_108A_F308_41AE_3E59005FA9F3.text = Entdecken Sie die flexible Möblierung für verschiedene Lernszenarien!
 HotspotPanoramaOverlayTextImage_AEF36013_B9DA_ED18_41DE_F12348E54051.text = Klick uns an!
 
 ## Media
@@ -10,11 +21,17 @@ HotspotPanoramaOverlayTextImage_AEF36013_B9DA_ED18_41DE_F12348E54051.text = Klic
 ### Floorplan
 
 ### Image
-imlevel_CF48F84F_C310_A2D0_41E7_C5834EC83002.url = media/map_B94E5EA5_A479_DA98_41DC_761582265617_de_0.webp
-imlevel_CF48A84F_C310_A2D0_41E0_591FAFB5C79E.url = media/map_B94E5EA5_A479_DA98_41DC_761582265617_de_1.webp
-imlevel_CF489850_C310_A2F0_41BD_3F457B90EF1C.url = media/map_B94E5EA5_A479_DA98_41DC_761582265617_de_2.webp
-imlevel_CF497850_C310_A2F0_41CF_DE094678D1C8.url = media/map_B94E5EA5_A479_DA98_41DC_761582265617_de_3.webp
+imlevel_0B2142FE_15D6_5C7C_41B1_21AC09CE5F50.url = media/map_B94E5EA5_A479_DA98_41DC_761582265617_de_0.webp
+imlevel_0B2152FE_15D6_5C7C_41A0_8AED3B89B4F3.url = media/map_B94E5EA5_A479_DA98_41DC_761582265617_de_1.webp
+imlevel_0B2162FE_15D6_5C7D_41A7_911278FC9912.url = media/map_B94E5EA5_A479_DA98_41DC_761582265617_de_2.webp
+imlevel_0B2172FE_15D6_5C7D_4162_BE6E42AB8410.url = media/map_B94E5EA5_A479_DA98_41DC_761582265617_de_3.webp
+imlevel_0060D982_157D_A4F9_41A2_34F62D30434F.url = media/panorama_AFCF579A_A3D9_AAA8_41DF_7AC542EDED67_HS_flkxvm69_de.webp
 imlevel_A1E8FD67_B9D9_D738_41D3_DF96E342F5E0.url = media/panorama_AFCF7D37_A3D9_FFF9_41DE_EDA7E1A33FF4_HS_03hslpu7_de.webp
+imlevel_05A19174_1556_5C10_4194_AE7A36B7BD87.url = media/popup_1AFA1E3D_1552_2412_41B5_2148A5D306A0_de_0_0.webp
+imlevel_05A1A174_1556_5C10_4148_044E98BBCE14.url = media/popup_1AFA1E3D_1552_2412_41B5_2148A5D306A0_de_0_1.webp
+imlevel_05A1B174_1556_5C10_41A6_60F3F1ABB3CB.url = media/popup_1AFA1E3D_1552_2412_41B5_2148A5D306A0_de_0_2.webp
+
+### Popup Image
 
 ### Titel
 panorama_AEB2439F_A3D8_AAA8_41D7_078504E59B10.label = GLB147_SZ01_Haupttour_001_V01
@@ -44,6 +61,17 @@ panorama_AFCCED0C_A3D9_DFA8_41D1_EB18D7E41CDE.label = GLBF_SZ01_Haupttour_001_V0
 panorama_AFCC15E8_A3D9_AE68_41E0_7AB2278AD0CD.label = GLBF_SZ01_Haupttour_003_V01
 panorama_AFCC4E28_A3D9_BD97_41DD_FEE0FA5CDDA0.label = GLBF_SZ01_Haupttour_004_V01
 map_B94E5EA5_A479_DA98_41DC_761582265617.label = Grundriss
+
+## Popup
+
+### Body
+htmlText_01AA0925_150A_A469_41B4_D90E1560F862.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;font-family:Noto Sans;">Willkommen im Experimentallabor!</SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-family:Noto Sans;"/></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;font-family:Noto Sans;">Sie befinden sich in einer Werkstatt, in der Wissenschaftler:innen und Lehrende der TU Dresden gemeinsam mit Interessierten und Alumni Beratung und Unterstützung bei der Erstellung von Lernmaterialien erhalten können. Als physischer Raum lädt es zum Experimentieren und Ausprobieren ein, um sich mediendidaktisch (weiter-) zu qualifizieren und verschiedene Ansätze forschungsorientierter Lehre didaktisch wertvoll und studierendenorientiert zu gestalten.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-family:Noto Sans;"/></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;font-family:Noto Sans;">Bewegen Sie sich virtuell durch die Räumlichkeiten und entdecken Sie die Möglichkeiten, die das Experimentallabor Ihnen bietet.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-family:Noto Sans;"/></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;font-family:Noto Sans;">Durch Klick auf den Grundriss können Sie auch direkt in die einzelnen Räume und den Flur springen. Probieren Sie es aus.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-family:Noto Sans;"/></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;font-family:Noto Sans;">Viel Spaß beim Erkunden!</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_05E9DE22_14FD_DC5A_41B2_9579267E1764.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;font-family:Noto Sans;">Willkommen im Experimentallabor!</SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-family:Noto Sans;"/></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;font-family:Noto Sans;">Sie befinden sich in einer Werkstatt, in der Wissenschaftler:innen und Lehrende der TU Dresden gemeinsam mit Interessierten und Alumni Beratung und Unterstützung bei der Erstellung von Lernmaterialien erhalten können. Als physischer Raum lädt es zum Experimentieren und Ausprobieren ein, um sich mediendidaktisch (weiter-) zu qualifizieren und verschiedene Ansätze forschungsorientierter Lehre didaktisch wertvoll und studierendenorientiert zu gestalten.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-family:Noto Sans;"/></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;font-family:Noto Sans;">Bewegen Sie sich virtuell durch die Räumlichkeiten und entdecken Sie die Möglichkeiten, die das Experimentallabor Ihnen bietet.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-family:Noto Sans;"/></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;font-family:Noto Sans;">Durch Klick auf den Grundriss können Sie auch direkt in die einzelnen Räume und den Flur springen. Probieren Sie es aus.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-family:Noto Sans;"/></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;font-family:Noto Sans;">Viel Spaß beim Erkunden!</SPAN></SPAN></DIV></BODY></HTML></div>
+
+## Skin
+
+### Multiline Text
+HTMLText_060FC188_1576_DCD2_4174_BFF8DB7DB7C2.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:32px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0099ff;font-size:32px;font-family:Noto Sans;"><B>Verpflegung</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:22px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0099ff;font-size:22px;font-family:Noto Sans;"><B>__________________________________________________</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:Noto Sans;">In der anliegenden Küche können Sie bei Bedarf Kaffee oder Tee zubereiten und Speisen kühlstellen, um Ihre Veranstaltung im Experimentallabor kulinarisch zu begleiten.</SPAN></SPAN></DIV></div>
 
 ## Tour
 
